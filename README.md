@@ -5,4 +5,4 @@ This is a simple webapp to merge, split pdf files and convert pdf to word docume
 3. script.js is for handling the frontend logic, such as collecting file input, sending requests to the backend, and updating the UI.
 4. styles.css is to make the webapp look a little bit more professional.
 
-You can find a deployment of the webapp here: [pdfpro](pdfpro.haojia-wu.com).
+You can find a deployment of the webapp here: [pdfpro](https://pdfpro.haojia-wu.com).
